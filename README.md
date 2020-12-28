@@ -1,8 +1,10 @@
 # Test for Creative crtweb.ru/
 
 ## Running:
- 
+### `npm install` 
 ### `npm run start`
+
+### Or: 
 
 ### `docker-compose up`
 
